@@ -26,7 +26,8 @@
 - Kullanıcı işlemlerini izleme ve kaydetme süreci.  
 - **Amaç:**  
   - Yetkisiz erişimleri tespit etmek.  
-  - Sistem hatalarını incelemek.  
+  - Sistem hatalarını incelemek.
+  - Bu sayede sistem çökme nedenleri incelenebilir.
 - **Örnek:** Günlük (log) kayıtlarının tutulması.  
 
 ---
